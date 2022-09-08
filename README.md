@@ -8,6 +8,6 @@ To request access<sup>[2](#footnote2)</sup>, make sure you first **[sign in](htt
 Members, please be responsible and no screwing around. If you don't know how something works, either don't touch it or Google it up. Your choice.
 
 ---
-<a name="footnote2">2</a>: Access is only for members or coaches of the Seattle Solvers. Certain exceptions may apply.
+<a name="footnote1">1</a>: Access is only for members or coaches of the Seattle Solvers. Certain exceptions may apply.
 
 <a name="footnote2">2</a>: Unless the team collectively decides to switch from the Scratch-based interface to Python.
