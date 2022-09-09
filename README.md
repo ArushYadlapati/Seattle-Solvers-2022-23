@@ -7,7 +7,7 @@ To request access<sup>[2](#footnote2)</sup>, make sure you first **[sign in](htt
 
 Members, please be responsible and no screwing around. If you don't know how something works, either don't touch it or Google it up. Your choice.
 
-This [Github Respiratory]('https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories') is set to private to prevent security breaches and to make sure nobody copies our code without our permission, no matter how likely it is.
+This [Github Respiratory]('https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories') is set to private to prevent security breaches and to make sure nobody copies our code without our permission, no matter how likely it is. If you are here, it is because you are a member/coach. Congrats.
 
 ---
 <a name="footnote1">1</a>: Access is only for members or coaches of the Seattle Solvers. Certain exceptions may apply. 
