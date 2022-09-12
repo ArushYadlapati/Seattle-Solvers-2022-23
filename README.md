@@ -13,3 +13,4 @@ This [Github Respiratory]('https://docs.github.com/en/repositories/creating-and-
 <a name="footnote1">1</a>: Access is only for members or coaches of the Seattle Solvers. Certain exceptions may apply. 
 
 <a name="footnote2">2</a>: Unless the team collectively decides to switch from the Scratch-based interface to Python.
+Learn more about the coding interface [here.]('https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3')
