@@ -22,6 +22,8 @@ Examples of unacceptable behsavior by participants include:
 ## List of Contributors/Collaborators
 - [@FutureWarrior082](https://github.com/FutureWarrior082)
 - [@Arush000](https://github.com/Arush000) (Alt account used for testing purposes for [@ArushYadlapati](https://www.github.com/ArushYadlapati)).
+- [@CreativeCreator1](https://github.com/CreativeCreator1)
+- [@solver4444](https://github.com/solver4444)
 ---
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4
