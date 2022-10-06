@@ -9,6 +9,7 @@ Members, please be responsible and no screwing around. If you don't know how som
 
 This [Github Respiratory]('https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories') used to be set to private (to prevent security breaches and just me being panaroid), but now is set to public for ease of access.
 
+Please also FOLLOW and READ this repo's [```contributing.md```](https://github.com/ArushYadlapati/Seattle-Solvers-2022-23/blob/main/contributing.md) as well.
 ---
 <a name="footnote1">1</a>: Access is only for members or coaches of the Seattle Solvers. Certain exceptions may apply. 
 
